@@ -10,8 +10,7 @@ ssh-keygen -t rsa -C "690819071@qq.com"
 
 /Users/owenko/.ssh
 /Users/owenko/.ssh/id_rsa.pub.
-password：gkk704576
+password：
 
 
 cat .ssh/id_rsa.pub
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCx6row9m1SsSYHrInm6NCLqkEHn6jyb9UAO/RjJgux6MW8LrPLKcdEqA00+j5zJks81nOgD2pkEsX/LsVBZ3AuYVdtr64zF/D/E5/BPcW/zMRUT8IEhfFw6DRNJL8lhmmD6goNwMO9O+DQIQDLp/kHERKLXr2jI/U3pfkpMugx427fgYx8jXrzlKInQ/m4myIyCEOLVwiL2HOWNiKYxIck4UGp+6drfWR/cgiaG8LSO/aUEwoom6m8W/1blq66Mn3ECm2vUuffF/FoWBqQsSuiK/6lzySyFPGc5fGyBAXkAdcHxiZCnA8mRecAXtPO6Ev+/eA4segB1oW507pc4f3R 690819071@qq.com
